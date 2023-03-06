@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author shiba
+ *
+ */
+module cliMiniCodes {
+}
